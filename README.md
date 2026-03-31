@@ -2,6 +2,10 @@
 
 **The only Chrome extension that reads Kindle Cloud Reader books aloud.** No other TTS tool works on Kindle — Speechify, NaturalReader, and Read Aloud all fail. CastReader uses OCR to extract text from Kindle's encrypted font rendering, something no other extension can do.
 
+### Text to Speech with Real-Time Highlighting
+![Text to Speech — Read any webpage aloud with paragraph highlighting](tts-demo.gif)
+
+### Send to Phone — Kindle Books as Audiobooks
 ![Send to Phone — Turn any Kindle book into an audiobook on your phone](send-to-phone-demo.gif)
 
 ## Why CastReader?
