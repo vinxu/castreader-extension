@@ -39,11 +39,11 @@ This same approach works on WeRead (微信读书), which renders text on Canvas 
 - **Paragraph highlighting**: Real-time visual tracking as you listen
 - **Smart content detection**: Skips navigation, ads, and boilerplate
 
-### Free, No Limits
+### Free to Start
 - 40+ languages with automatic detection
-- No signup, no account, no subscription
-- No usage limits — read as much as you want
-- No data collection — all processing happens locally
+- No signup or account required to start
+- Free tier with standard voices; CastReader Pro unlocks premium ultra-realistic voices and more listening
+- We don't store your page content
 
 ## Install
 
@@ -91,14 +91,15 @@ Click "Send to Phone" in the extension popup. CastReader syncs the book chapter 
 No. CastReader generates speech from the text of books you already own in your Kindle library. No Audible subscription needed.
 
 **Is it really free?**
-Yes. No freemium tier, no monthly limits, no account required. CastReader uses the open-source Kokoro TTS engine which runs on our server at no per-request cost.
+Yes — free to start, no account required. The free tier uses the open-source Kokoro TTS engine. CastReader Pro (optional) unlocks premium ultra-realistic voices, more listening time, and AI features like Read & Explain.
 
 ## Links
 
-- [Website](https://castreader.ai)
-- [Listen to Kindle](https://castreader.ai/listen-to-kindle) — How Kindle TTS works
-- [Send to Phone](https://castreader.ai/send-to-phone) — Desktop to phone audiobook streaming
-- [Blog](https://castreader.ai/blog) — Guides and tutorials
+- [Website](https://castreader.com)
+- [Listen to Kindle](https://castreader.com/listen-to-kindle) — How Kindle TTS works
+- [Send to Phone](https://castreader.com/send-to-phone) — Desktop to phone audiobook streaming
+- [Read & Explain](https://castreader.com/read-and-explain) — Have any page explained in your language
+- [Blog](https://castreader.com/blog) — Guides and tutorials
 
 ## License
 
